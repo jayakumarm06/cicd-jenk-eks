@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: jaikumarm06/javap:9
+        image: jaikumarm06/javap:2
         ports:
         - containerPort: 8080
 
